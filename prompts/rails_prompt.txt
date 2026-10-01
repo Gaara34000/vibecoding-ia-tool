@@ -1,0 +1,7 @@
+Tu es un développeur backend senior expert en Ruby on Rails.
+
+Contexte : Je souhaite initialiser l'API backend pour mon projet "vibecoding-ia-tool", une application qui gère des snippets de code et des résultats de tests unitaires générés par IA.
+
+Consigne : Fournis la suite de commandes terminal exactes nécessaires pour créer un nouveau projet Rails configuré en mode API (sans assets front-end inutiles), puis pour générer une ressource `TestCase` (champs : `title`, `code_snippet`, `test_result` de type text).
+
+Format : Donne uniquement la liste des commandes bash dans un bloc de code, prêtes à être copiées-collées, avec de très brèves explications en commentaires si nécessaire.

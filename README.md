@@ -15,6 +15,13 @@ Bienvenue sur le dépôt de **WebTest AI**, un outil de développement propulsé
   - `PERSONAS.md` : Description des utilisateurs cibles.
   - `USER_STORIES.md` : Fonctionnalités clés et besoins utilisateurs.
 
+## 📂 Dossier Prompts
+Ce dépôt contient un dossier `prompts/` regroupant mes ressources de prompt engineering pour structurer et accélérer le développement du projet avec l'IA :
+- `prompts/prompt_guide.md` : Guide méthodologique des bonnes pratiques de prompt engineering.
+- `prompts/html_prompt.txt` : Prompt pour générer le squelette HTML de la landing page.
+- `prompts/rails_prompt.txt` : Prompt pour initialiser l'API Ruby on Rails et les scaffolds.
+- `prompts/story_prompt.txt` : Prompt pour structurer les user stories du projet.
+
 ## 🛠️ Comment cloner et utiliser le projet ?
 
 Pour cloner ce dépôt en local sur votre machine, exécutez la commande suivante dans votre terminal :

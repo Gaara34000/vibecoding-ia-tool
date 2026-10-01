@@ -1,0 +1,7 @@
+Tu es un expert en développement front-end et en intégration web, spécialisé dans la création de landing pages modernes et épurées.
+
+Contexte : Je développe "vibecoding-ia-tool", un outil d'assistance aux développeurs basé sur l'IA pour générer et automatiser des tests unitaires sur du code HTML, CSS et JavaScript.
+
+Consigne : Génère le squelette HTML5 complet d'une landing page moderne pour présenter cet outil. La page doit contenir une section hero (titre accrocheur, sous-titre, bouton d'appel à l'action), une section présentant les fonctionnalités clés, et un pied de page.
+
+Format : Fournis UNIQUEMENT le code HTML brut, proprement indenté. N'inclus aucun texte explicatif avant ou après le bloc de code.

@@ -1,0 +1,9 @@
+Tu es un Product Owner agile expérimenté.
+
+Contexte : Je construis "vibecoding-ia-tool", un outil de génération de tests unitaires par IA pour du code Vanilla JavaScript, HTML5 et CSS3.
+
+Consigne : Rédige exactement 3 user stories pertinentes et complémentaires pour les fonctionnalités principales de cet outil (par exemple : la soumission de code, la configuration des tests, et l'export des résultats).
+
+Format : Utilise strictement et pour chaque story la structure agile : 
+« En tant que [rôle], je veux [action] afin de [bénéfice] ». 
+Sois concis et direct.
